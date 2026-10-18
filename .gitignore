@@ -1,0 +1,13 @@
+*.PrjPcbStructure
+
+\_\_Previews/
+History/
+
+Outputs/
+Project Outputs for*/
+
+Logs/
+Project Logs for*/
+
+.tmp/
+tmp/
